@@ -17,5 +17,3 @@
 <a href="https://instagram.com/andrea_19d_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrea_19d_" height="30" width="40" /></a>
 <a href="https://discord.gg/_jesus_8597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_jesus_8597" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrea-19d&show_icons=true&locale=en&layout=compact" alt="andrea-19d" /></p>
